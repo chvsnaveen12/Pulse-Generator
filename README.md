@@ -14,6 +14,7 @@ Pulse generator for the 8-bit cmos computer
 |   A2        | Encoder B  |
 |   A0        | Encoder SW |
 |   d10       | Menu Button|
+|   d2        | Pulse Out  |
 
 Menu button has to be hooked up in an active low configuration.
 If you want to change direction of the encoder, just swap Encoder A and Encoder B.
