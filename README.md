@@ -19,7 +19,7 @@ Menu button has to be hooked up in an active low configuration.
 If you want to change direction of the encoder, just swap Encoder A and Encoder B.
 
 ## Usage 
-Press the Menu button to cycle through the 4 modes.
+Press the Menu button to cycle through the 4 modes. [Youtube Video](https://www.youtube.com/watch?v=3lUOrzv3epo)
 
 ### Single step mode
 Press the encoder button to send out a pulse.
@@ -34,3 +34,4 @@ Just stop the pusles, change the delay, and start again.
 
 ### Delay mode micros
 Works just like the above function but the delay between state transitions is in microseconds.
+
