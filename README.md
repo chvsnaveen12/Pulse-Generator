@@ -16,6 +16,7 @@ Pulse generator for the 8-bit cmos computer
 |   d10       | Menu Button|
 
 Menu button has to be hooked up in an active low configuration.
+If you want to change direction of the encoder, just swap Encoder A and Encoder B.
 
 ## Usage 
 Press the Menu button to cycle through the 4 modes.
