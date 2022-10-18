@@ -1,5 +1,6 @@
 # Pulse-Generator
 Pulse generator for the 8-bit cmos computer
+![Screenshot from 2022-10-18 17-57-40](https://user-images.githubusercontent.com/90030628/196429435-b4ebcefb-3a0a-4362-94fd-453686ccf433.png)
 
 ## Wiring
 | Arduino Pin | Connection |
