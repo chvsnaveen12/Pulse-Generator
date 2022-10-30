@@ -32,7 +32,7 @@ Select how many pulses you want to generate, and then press the encoder button t
 ### Delay mode millis
 Select the delay between a state transition of the pulse, in milliseconds. Then press the encoder button to start the pulse generation.
 To stop, press the encoder button again. If the delay is too high and the pulses are being generated, the encoder might stop responding.
-Just stop the pusles, change the delay, and start again.
+Just stop the pulses, change the delay, and start again.
 
 ### Delay mode micros
 Works just like the above function but the delay between state transitions is in microseconds.
